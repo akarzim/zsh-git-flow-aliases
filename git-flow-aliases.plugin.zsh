@@ -14,13 +14,13 @@ fi
 # Aliases
 #
 
-# Flow (F)
+alias gF='git flow'
 alias gFi='git flow init'
-alias gFf='git flow feature'
-alias gFb='git flow bugfix'
-alias gFh='git flow hotfix'
-alias gFs='git flow support'
+alias gFc='git flow config'
+alias gFl='git flow log'
+alias gFv='git flow version'
 
+alias gFf='git flow feature'
 alias gFfl='git flow feature list'
 alias gFfs='git flow feature start'
 alias gFff='git flow feature finish'
@@ -32,6 +32,7 @@ alias gFfc='git flow feature checkout'
 alias gFfm='git flow feature pull'
 alias gFfx='git flow feature delete'
 
+alias gFb='git flow bugfix'
 alias gFbl='git flow bugfix list'
 alias gFbs='git flow bugfix start'
 alias gFbf='git flow bugfix finish'
@@ -55,6 +56,7 @@ alias gFrc='git flow release checkout'
 alias gFrm='git flow release pull'
 alias gFrx='git flow release delete'
 
+alias gFh='git flow hotfix'
 alias gFhl='git flow hotfix list'
 alias gFhs='git flow hotfix start'
 alias gFhf='git flow hotfix finish'
@@ -66,6 +68,7 @@ alias gFhc='git flow hotfix checkout'
 alias gFhm='git flow hotfix pull'
 alias gFhx='git flow hotfix delete'
 
+alias gFs='git flow support'
 alias gFsl='git flow support list'
 alias gFss='git flow support start'
 alias gFsf='git flow support finish'

@@ -12,7 +12,11 @@ zplug "akarzim/zsh-git-flow-aliases"
 
 ## Aliases
 
+  - `gF` is short for `git flow`
   - `gFi` is short for `git flow init`
+  - `gFc` is short for `git flow config`
+  - `gFl` is short for `git flow log`
+  - `gFv` is short for `git flow version`
 
 ### Feature
 
