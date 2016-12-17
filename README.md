@@ -44,17 +44,17 @@ zplug "akarzim/zsh-git-flow-aliases"
 
 ### Release
 
-  - `gFl` is short for `git flow release`
-  - `gFll` is short for `git flow release list`
-  - `gFls` is short for `git flow release start`
-  - `gFlf` is short for `git flow release finish`
-  - `gFlp` is short for `git flow release publish`
-  - `gFlt` is short for `git flow release track`
-  - `gFld` is short for `git flow release diff`
-  - `gFlr` is short for `git flow release rebase`
-  - `gFlc` is short for `git flow release checkout`
-  - `gFlm` is short for `git flow release pull`
-  - `gFlx` is short for `git flow release delete`
+  - `gFr` is short for `git flow release`
+  - `gFrl` is short for `git flow release list`
+  - `gFrs` is short for `git flow release start`
+  - `gFrf` is short for `git flow release finish`
+  - `gFrp` is short for `git flow release publish`
+  - `gFrt` is short for `git flow release track`
+  - `gFrd` is short for `git flow release diff`
+  - `gFrr` is short for `git flow release rebase`
+  - `gFrc` is short for `git flow release checkout`
+  - `gFrm` is short for `git flow release pull`
+  - `gFrx` is short for `git flow release delete`
 
 ### Hotfix
 
