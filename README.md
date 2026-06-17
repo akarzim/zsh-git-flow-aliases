@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Moved to [Codeberg](https://codeberg.org/akarzim/zsh-git-flow-aliases)
+
 # zsh-git-flow-aliases
 
 [ZSH][1] [Git][2] [Flow][3] aliases which works perfectly with [Prezto][4] [Git module][5].
